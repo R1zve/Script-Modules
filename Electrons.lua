@@ -1,5 +1,6 @@
 local Modules = {
 	Icons = {
+		["Library"] = 10974002410,
 		["Home"] = 10973655321,
 		["Farming"] = 10973688580,
 		["Mobs"] = 10973744839,

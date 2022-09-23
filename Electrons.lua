@@ -1,5 +1,4 @@
 local Modules = {
-	["Game Version"] = 0,
 	Icons = {
 		["Library"] = 10974002410,
 		["Home"] = 10973655321,

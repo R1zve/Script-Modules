@@ -11,6 +11,9 @@ local Modules = {
 		["Themes"] = 10973699847,
 		["Settings"] = 10973695126
 	},
+	Remotes = {
+		["Mob_Hit"] = "mYzkBflkugGbYdxYieghqskachy/xJdsbyebAaezmavnLndzgxaW"
+	}
 }
 
 return Modules

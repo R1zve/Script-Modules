@@ -12,7 +12,7 @@ local Modules = {
 		["Settings"] = 10973695126
 	},
 	Remotes = {
-		["Mob_Hit"] = "pspsmkylvdishygbofbehqet/pspsmkylvdishygbofbehqet"
+		["Mob_Hit"] = "pspsmkylvdishygbofbehqet/mhfwbiDmgklavhMSmgupAofkzJloCp"
 	}
 }
 

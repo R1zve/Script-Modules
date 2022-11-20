@@ -13,6 +13,9 @@ local Modules = {
 	},
 	Remotes = {
 		["Mob_Hit"] = "pspsmkylvdishygbofbehqet/mhfwbiDmgklavhMSmgupAofkzJloCp"
+	},
+	scriptSettings = {
+		blocksPerSecond = 29
 	}
 }
 
